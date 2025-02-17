@@ -90,14 +90,16 @@ let W = 2 µm
  from the above input and the output waves we can calculate the gain 
 
  Av = Vout/Vin
- vout = 1.745 V ; vin = 900 mV
+ vout = 1.755 V ; vin = 950 mV
  
- Gain = 1.745/900m
+ Gain = 1.755/950m
 
-  gain = 1.938
+  gain = 1.84
 
 AC ANALYSIS :
+
 this analysis is done to get the output at different frequencies
+
 INPUT :
  DC offset : 0.9V
  ampltitude = 50mV
@@ -114,10 +116,13 @@ INPUT :
 
 DC operating point 
 1) for 1 k ohm >> (1.7444 V,55.5µA) with W = 1.981µm and L = 1µm
-
+2) for 100 k ohm >> (0.068 V,17.31 5µA) with W = 1.981 µm and L =1µm
+3) the gain of the circuit is 1.84
 
 ## Inference :
- 1)from the above  analysis we can conclude that ID depends on both the length and width of the mosfet , where width is directly propotional and length is inversely propotional to the drain current 
+ 1) from the above  analysis we can conclude that ID depends on both the length and width of the mosfet , where width is directly propotional and length is inversely propotional to the drain current
+ 2)  
+ 
   
 
 
