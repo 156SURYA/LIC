@@ -138,6 +138,53 @@ DC operating point
 ## Inference :
  1) from the above  analysis we can conclude that ID depends on both the length and width of the mosfet , where width is directly propotional and length is inversely propotional to the drain current
  2)  
+
+
+ # Simulation of CMOS Amplifier
+
+ ## Aim
+ To simulate DC Analysis ; transient Analysis and AC Analysis of a CMOS amplifier
+
+ ## DC ANALYSIS :
+
+ for this DC Analysis we have to replace the resistor with a mosfet with the same supply and the gate voltage
+ let ID value be same = 55 µA
+
+ ## Circuit 
+ ![Screenshot (421)](https://github.com/user-attachments/assets/fb44f6f9-1976-48ae-99e8-df90c125fc54)
+ 
+ ## DC OPERATING POINT :
+
+ 
+the Qpoint is (
+ ![Screenshot (422)](https://github.com/user-attachments/assets/7de8a3e8-37f1-4761-914e-379e94570a05)
+
+
+ ## TRANSIENT ALAYSIS :
+
+to get the transient output we have replace the DC gate voltage with a sine wave 
+
+ DC offset = 0.9v
+ Amplitude = 50 mV
+ Frequency = 1 k Hz
+ CIRCUIT DIAGRAM :
+ 
+![Screenshot (426)](https://github.com/user-attachments/assets/fde08bfd-5902-49bf-95cc-92c622b6c8f7)
+
+
+
+ OUTPUT WAVEFORM :
+ 
+ ![Screenshot (425)](https://github.com/user-attachments/assets/f0216bac-531d-4a43-9bb4-920b1d1588a6)
+
+ ## AC ANALYSIS :
+
+ OUTPUT WAVEFORM:
+ 
+ 
+
+
+
  
   
 
