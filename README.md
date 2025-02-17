@@ -4,6 +4,7 @@
 
 # Aim :
    a) to simulate the circuit to get DC operating point also by varying it's RD value
+   
    b) to the the transient and AC analysis of the same circuit 
 
 
