@@ -156,7 +156,7 @@ DC operating point
  ## DC OPERATING POINT :
 
  
-the Qpoint is (
+the Qpoint is (1.55V,55 µA)
  ![Screenshot (422)](https://github.com/user-attachments/assets/7de8a3e8-37f1-4761-914e-379e94570a05)
 
 
@@ -177,9 +177,17 @@ to get the transient output we have replace the DC gate voltage with a sine wave
  
  ![Screenshot (425)](https://github.com/user-attachments/assets/f0216bac-531d-4a43-9bb4-920b1d1588a6)
 
+ from the above waveform we can conclude that there is 180 degree phase shift between input and output wave
+
  ## AC ANALYSIS :
 
  OUTPUT WAVEFORM:
+
+ ![image](https://github.com/user-attachments/assets/f211b851-7281-4292-b91d-a722fe27aed3)
+
+ Gain =5.5 dB
+ 
+
  
  
 
