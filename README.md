@@ -112,7 +112,12 @@ INPUT :
 
 ## Result :
 
-DC operating point ,for 1 k ohm >> 
+DC operating point 
+1) for 1 k ohm >> (1.7444 V,55.5µA) with W = 1.981µm and L = 1µm
+
+
+## Inference :
+ 1)from the above  analysis we can conclude that ID depends on both the length and width of the mosfet , where width is directly propotional and length is inversely propotional to the drain current 
   
 
 
