@@ -81,9 +81,25 @@ let W = 2 µm
  input wave :
  ![Screenshot (405)](https://github.com/user-attachments/assets/4f32055f-d7b7-41d8-9ddb-38191a9e9b72)
 
+ output wave :
+ ![Screenshot (406)](https://github.com/user-attachments/assets/c5d072fe-08b9-4c3d-8a64-267fea13a82d)
+
+ from the above input and the output waves we can calculate the gain 
+
+ Av = Vout/Vin
+ vout = 1.745 V ; vin = 900 mV
  
+ Gain = 1.745/900m
 
+  gain = 1.938
 
+AC ANALYSIS :
+this analysis is done to get the output at different frequencies
+INPUT :
+ DC offset : 0.9V
+ ampltitude = 50mV
+ frequency = 1 k Hz
+ AC amplitude = A
 
   
 
