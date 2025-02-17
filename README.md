@@ -186,6 +186,10 @@ to get the transient output we have replace the DC gate voltage with a sine wave
  ![image](https://github.com/user-attachments/assets/f211b851-7281-4292-b91d-a722fe27aed3)
 
  Gain =5.5 dB
+
+ ## Inference 
+ 1)therefore from the above analysis we can conclude that the output wave is about 5.5 times grater than the input wave
+ 2) the transient analysis output shows how the amplifier responds to a time varying gignal
  
 
  
