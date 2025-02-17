@@ -50,11 +50,14 @@
 
   for the same circuit by variying the value of the drain resistance 
 
-  Let RD = 100 kohms 
+  Let RD = 100k ohms 
+
+circuit diagram
 
   ![Screenshot (395)](https://github.com/user-attachments/assets/7794c20c-02ee-41ca-b716-38e52cde9a27)
 
   the output will be 
+  
   ![Screenshot (396)](https://github.com/user-attachments/assets/288d5fb7-dd85-41b3-b882-f57934094c28)
 
 by changing the length and the width of the mosfet the output drain current and volatge will be varied 
@@ -81,12 +84,15 @@ let W = 2 µm
  for the same circuit transient analysis can be done by changing the input voltage to time dependent sine wave with the offset value = 0.9v ;amplitude = 50 mV ; frequency = 1k Hz ;
 
  circuit :
+ 
  ![Screenshot (404)](https://github.com/user-attachments/assets/26f8df12-5773-429a-99c0-2dfd67f0743d)
 
  input wave :
+ 
  ![Screenshot (405)](https://github.com/user-attachments/assets/4f32055f-d7b7-41d8-9ddb-38191a9e9b72)
 
  output wave :
+ 
  ![Screenshot (406)](https://github.com/user-attachments/assets/c5d072fe-08b9-4c3d-8a64-267fea13a82d)
 
  from the above input and the output waves we can calculate the gain 
@@ -104,12 +110,20 @@ this analysis is done to get the output at different frequencies
 
 INPUT :
  DC offset : 0.9V
+ 
  ampltitude = 50mV
+ 
  frequency = 1 k Hz
+ 
  AC amplitude = 1
+ for simulation of AC analysis select sweep to decade ;number of points to 20 and operating frequency range from 0.1 to 1T Hz.
 
   CIRCUIT :
+  
   ![Screenshot (407)](https://github.com/user-attachments/assets/32d81c44-c647-4a11-ba2b-c5294f1a9ffc)
+
+  ![Screenshot (412)](https://github.com/user-attachments/assets/eebd6183-2bc1-4fe0-acc4-40f4d8ab7005)
+
 
   OUTPUT WAVEFORM :
   ![Screenshot (408)](https://github.com/user-attachments/assets/773b9e0a-58f5-44ab-a19f-2369b1693ee6)
