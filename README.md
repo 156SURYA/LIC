@@ -137,7 +137,7 @@ DC operating point
 
 ## Inference :
  1) from the above  analysis we can conclude that ID depends on both the length and width of the mosfet , where width is directly propotional and length is inversely propotional to the drain current
- 2)  
+
 
 
  # Simulation of CMOS Amplifier
