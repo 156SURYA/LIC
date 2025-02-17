@@ -19,7 +19,8 @@
    we have used is 'tsmc018.lib'
    
 
-   DC ANALYSIS :
+  ## DC ANALYSIS :
+   
    the DC operating point of the mosfet can be obtained int the following way the power rating is given as 100 micro watt
 
    RD = 1k ohm
@@ -73,7 +74,7 @@ let W = 2 µm
 
 
 
- TRANSIENT ANALYSIS :
+ ## TRANSIENT ANALYSIS :
 
  this analysis is done to know the output both voltage and the current with respect to time 
 
@@ -97,7 +98,7 @@ let W = 2 µm
 
   gain = 1.84
 
-AC ANALYSIS :
+## AC ANALYSIS :
 
 this analysis is done to get the output at different frequencies
 
