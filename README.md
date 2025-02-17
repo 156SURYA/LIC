@@ -1,11 +1,14 @@
-![image](https://github.com/user-attachments/assets/9af7c486-2ea6-455a-bd55-e47761782a33)   EXPERIMENT -01
+#  EXPERIMENT -01
 
+
+
+# Aim :
    a) to simulate the circuit to get DC operating point also by varying it's RD value
    b) to the the transient and AC analysis of the same circuit 
 
 
 
-  components used :-
+  ## components used :-
    DC power supply of 1.8v and 0.9 volt
    resistor of 1k ohms
    NMOS4
@@ -99,9 +102,19 @@ INPUT :
  DC offset : 0.9V
  ampltitude = 50mV
  frequency = 1 k Hz
- AC amplitude = A
+ AC amplitude = 1
 
+  CIRCUIT :
+  ![Screenshot (407)](https://github.com/user-attachments/assets/32d81c44-c647-4a11-ba2b-c5294f1a9ffc)
+
+  OUTPUT WAVEFORM :
+  ![Screenshot (408)](https://github.com/user-attachments/assets/773b9e0a-58f5-44ab-a19f-2369b1693ee6)
+
+## Result :
+
+DC operating point ,for 1 k ohm >> 
   
+
 
   
 
