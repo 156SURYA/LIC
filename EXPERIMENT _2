@@ -1,0 +1,11 @@
+# DIFFERENTIAL AMPLIFIER 
+
+## ABOUT DIFFERENTIAL AMPLIFIERS :-
+
+A differential amplifer amplifies the difference between two input voltage also by rejecting thr common voltage shared by the input
+
+## WORKNG :
+Basically it has 2 input terminals v1 and v2
+from the output terminal we can get  Vout = gain(v1-v2)
+                                      Vout = gain (vd)
+                     where , vd= v1-v2
