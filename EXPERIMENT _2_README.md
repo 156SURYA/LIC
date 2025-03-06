@@ -22,10 +22,12 @@ Vpp= 2.2V ; P <= 2.2mw ; Vincm =1.2V ; Vocm = 1.25V Vp = 0.4V simulate the follo
 
 ## circuit diagram : -
 
-![Screenshot (431)](https://github.com/user-attachments/assets/6fa66058-164a-4405-a9af-3e43b5fb7712)
+![Screenshot (443)](https://github.com/user-attachments/assets/6f286604-06c1-4360-8e09-cdc494a0561b)
+
 
 ## DC analysis : -
-![Screenshot (432)](https://github.com/user-attachments/assets/d4feca1a-b4d5-41ea-ace0-7f27367936fa)
+![Screenshot (444)](https://github.com/user-attachments/assets/773bbb98-3bdb-4c19-8fb5-ade8f1b8a135)
+
 
 ## Transient analysis :-
 ![Screenshot (437)](https://github.com/user-attachments/assets/9f43e477-2011-443e-b455-6180471c59f6)
