@@ -23,7 +23,7 @@ Vpp= 2.2V ; P <= 2.2mw ; Vincm =1.2V ; Vocm = 1.25V Vp = 0.4V simulate the follo
 
 Now , from the calculated value design the circuit
 
-![Screenshot (443)](https://github.com/user-attachments/assets/6f286604-06c1-4360-8e09-cdc494a0561b)
+![Screenshot (474)](https://github.com/user-attachments/assets/88eb075c-fca9-41e4-b654-d7e184085a46)
 
 
 ### DC analysis : -
@@ -36,18 +36,34 @@ Now , from the calculated value design the circuit
 
 Mosfet to work as an Amplifier it should we working in the saturation region 
 from the obtained output => 
+![Screenshot (471)](https://github.com/user-attachments/assets/51d5bf17-2efd-4213-876d-28710bb25e56)
 
 Vgs = 0.8 V
 Vds = 0.85 V
 Vth = 0.366 V
+ As Vgs >Vth and Vds > Vov we can conclude that the mosfet is operating in the saturation region
 
+ therefore the Qpoint is ( 0.85V,0.5mA) .
+
+ ### Calculating the minmum and the maximum values :
+  Vincm (min) = Vth + vp => 0.366 + 0.399 = 0.765 V
+  Vincm(max) = Vdd - (Id*Rd) +Vth => 1.616 V
+  Vout (min) = Vov1 + Vp => 0.824 V
+  Vout(max) = Vdd - (Id*Rd) => 1.25 V
 
 ### Transient analysis :-
+From this simulation we can calculate the gain
+
+Valculated Value :
+Gain = Av = - Gm*Rd 
+Gm = 2Id/Vov = 2 ( 0.5 *10^-3 ) / 0.434 * 10 ^3 = 2.30 v/v
 
 steps :
 1) to change the input  DC voltage to AC singnal with the DC offset voltage
 2) with 100 mV as peak to peak voltage and DC offset voltage as 1.2 Volts
 3) from the output we can observe a phase shift of 180 degrees
+
+### output :
 
 ![Screenshot (437)](https://github.com/user-attachments/assets/9f43e477-2011-443e-b455-6180471c59f6)
 
@@ -61,6 +77,9 @@ steps :
 
 ### Circuit Diagram :-
 
+![Screenshot (473)](https://github.com/user-attachments/assets/6c6156b9-1c5d-4051-9f61-825235e60fe2)
+
+
 ### DC analysis : -
 
 ![Screenshot (460)](https://github.com/user-attachments/assets/ad475f1f-cdca-487c-83ab-f77ba6c48299)
@@ -73,12 +92,18 @@ steps :
 
 ### AC Analysis :-
 
+![Screenshot (470)](https://github.com/user-attachments/assets/48a5a2bf-4048-4711-bcd2-7b7fa24006da)
+
+
 ## replacing the resisitor with mosfet 
 
 ### circuit Diagram :-
 
 
 ###  DC Analysis :-
+Now , Vds = Vgs -Vt
+    0.85 + 0.366 = 1.216 volts
+     therefore Vg = 1.216 V ; souurce is grounded 
 
 ### Transient Analysis :-
 
