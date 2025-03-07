@@ -91,7 +91,8 @@ steps :
 
 
 ### AC Analysis :-
-<img width="959" alt="418410653-75f328de-9ee0-4011-ab77-b6078fc720c0" src="https://github.com/user-attachments/assets/fcd210fb-6c1a-4afb-a7e0-ea8a3b073a04" />
+![image](https://github.com/user-attachments/assets/5ae1824c-f774-4377-9bdd-754c1bf9fd04)
+
 
 
 
@@ -118,6 +119,8 @@ Now , Vds = Vgs -Vt
 
 
 ### AC Analysis :-
+
+![image](https://github.com/user-attachments/assets/a83905cc-0e50-4799-85b2-42cffdb10f29)
 
 
 ###
