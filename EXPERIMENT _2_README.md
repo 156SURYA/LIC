@@ -91,8 +91,8 @@ steps :
 
 
 ### AC Analysis :-
+<img width="959" alt="418410653-75f328de-9ee0-4011-ab77-b6078fc720c0" src="https://github.com/user-attachments/assets/fcd210fb-6c1a-4afb-a7e0-ea8a3b073a04" />
 
-![Screenshot (470)](https://github.com/user-attachments/assets/48a5a2bf-4048-4711-bcd2-7b7fa24006da)
 
 
 ## replacing the resisitor with mosfet 
@@ -108,6 +108,7 @@ Now , Vds = Vgs -Vt
 ### Transient Analysis :-
 
 ### AC Analysis :-
+
 
 ###
 
