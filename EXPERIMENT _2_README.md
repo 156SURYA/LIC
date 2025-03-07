@@ -70,7 +70,9 @@ steps :
 
 
 ###  AC analysis :-
-![Screenshot (458)](https://github.com/user-attachments/assets/672ee74c-b659-4c91-94e3-86aa9a15285a)
+
+![image](https://github.com/user-attachments/assets/75cd60dc-b60f-4d8c-829e-77d3b743faaa)
+
 
 
 ## Replacing the resistor With current source 
