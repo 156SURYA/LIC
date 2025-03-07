@@ -6,9 +6,12 @@ A differential amplifer amplifies the difference between two input voltage also 
 
 ### WORKNG :
 Basically it has 2 input terminals v1 and v2
-from the output terminal we can get  Vout = gain(v1-v2)
-                                      Vout = gain (vd)
-                     where , vd= v1-v2
+
+from the output terminal we can get   Vout = gain(v1-v2)
+
+                                         Vout = gain (vd)
+                                         
+                                        where , vd= v1-v2
 
 Question : Design and analyse the different amplifier forthe given  specification
 
@@ -62,6 +65,7 @@ From this simulation we can calculate the gain
 
 Valculated Value :
 Gain = Av = - Gm*Rd 
+
 Gm = 2Id/Vov = 2 ( 0.5 *10^-3 ) / 0.434 * 10 ^3 = 2.30 v/v
 
 steps :
