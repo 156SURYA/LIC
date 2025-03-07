@@ -36,7 +36,7 @@ Vpp= 2.2V ; P <= 2.2mw ; Vincm =1.2V ; Vocm = 1.25V Vp = 0.4V simulate the follo
 ![Screenshot (452)](https://github.com/user-attachments/assets/47e6ee1c-1076-4d20-8df8-3501b81d1a37)
 
 
-###frequency response :-
+### frequency response :-
 ![Screenshot (458)](https://github.com/user-attachments/assets/672ee74c-b659-4c91-94e3-86aa9a15285a)
 
 
