@@ -126,7 +126,25 @@ Now , Vds = Vgs -Vt
 
 
 ##Result :-
-From the DC analysis of the 1st circuit where the differential amplifier is connected with the resistor Rss we can get to know the  mosfet is working in saturation region or not 
+1) From the DC analysis of the 1st circuit where the differential amplifier is connected with the resistor Rss we can get to know the  mosfet is working in saturation region or not
+
+![image](https://github.com/user-attachments/assets/f18e2b71-7409-4d03-a787-a058d02a26ad)
+
+also we can get the exact values of all paramters
+
+2) also we can see that by replacing the Rss in the circuit there is a stable output current
+
+
+
+
+
+## Inference :-
+
+### Circuit Comparision :
+
+![image](https://github.com/user-attachments/assets/91e21fd0-e1cf-4065-9701-0227751ceff3)
+
+
 
 
 
