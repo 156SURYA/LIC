@@ -125,6 +125,8 @@ Now , Vds = Vgs -Vt
 ![image](https://github.com/user-attachments/assets/a83905cc-0e50-4799-85b2-42cffdb10f29)
 
 
+
+
 ##Result :-
 1) From the DC analysis of the 1st circuit where the differential amplifier is connected with the resistor Rss we can get to know the  mosfet is working in saturation region or not
 
@@ -142,7 +144,8 @@ also we can get the exact values of all paramters
 
 ### Circuit Comparision :
 
-![image](https://github.com/user-attachments/assets/91e21fd0-e1cf-4065-9701-0227751ceff3)
+![image](https://github.com/user-attachments/assets/0cd53549-b280-4a63-9d01-0a84b36f282a)
+
 
 
 
