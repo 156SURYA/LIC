@@ -99,13 +99,23 @@ steps :
 
 ### circuit Diagram :-
 
+![image](https://github.com/user-attachments/assets/5258e817-82dd-4dc1-a65d-a5abb93101f7)
+
+
 
 ###  DC Analysis :-
+
+
+![image](https://github.com/user-attachments/assets/57fc3195-8968-482b-b1e3-b38c94dadeea)
+
 Now , Vds = Vgs -Vt
     0.85 + 0.366 = 1.216 volts
      therefore Vg = 1.216 V ; souurce is grounded 
 
 ### Transient Analysis :-
+
+![image](https://github.com/user-attachments/assets/34d4d457-d8d4-484e-857a-b0d858ee6546)
+
 
 ### AC Analysis :-
 
