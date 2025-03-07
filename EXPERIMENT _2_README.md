@@ -40,6 +40,22 @@ Vpp= 2.2V ; P <= 2.2mw ; Vincm =1.2V ; Vocm = 1.25V Vp = 0.4V simulate the follo
 ![Screenshot (458)](https://github.com/user-attachments/assets/672ee74c-b659-4c91-94e3-86aa9a15285a)
 
 
+## With current source 
+
+### DC analysis : -
+
+![Screenshot (460)](https://github.com/user-attachments/assets/ad475f1f-cdca-487c-83ab-f77ba6c48299)
+
+### TRansient Analysis :-
+
+![Screenshot (464)](https://github.com/user-attachments/assets/0ed2b0ab-57b3-4d36-9d5e-1a89684348eb)
+
+
+
+### AC Analysis :-
+
+
+
 
 
 
