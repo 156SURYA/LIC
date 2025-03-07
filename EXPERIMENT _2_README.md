@@ -39,16 +39,22 @@ from the obtained output =>
 ![Screenshot (471)](https://github.com/user-attachments/assets/51d5bf17-2efd-4213-876d-28710bb25e56)
 
 Vgs = 0.8 V
+
 Vds = 0.85 V
+
 Vth = 0.366 V
+
  As Vgs >Vth and Vds > Vov we can conclude that the mosfet is operating in the saturation region
 
  therefore the Qpoint is ( 0.85V,0.5mA) .
 
  ### Calculating the minmum and the maximum values :
   Vincm (min) = Vth + vp => 0.366 + 0.399 = 0.765 V
+  
   Vincm(max) = Vdd - (Id*Rd) +Vth => 1.616 V
+  
   Vout (min) = Vov1 + Vp => 0.824 V
+  
   Vout(max) = Vdd - (Id*Rd) => 1.25 V
 
 ### Transient analysis :-
