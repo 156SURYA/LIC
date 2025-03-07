@@ -127,7 +127,8 @@ Now , Vds = Vgs -Vt
 
 
 
-##Result :-
+### Result :-
+
 1) From the DC analysis of the 1st circuit where the differential amplifier is connected with the resistor Rss we can get to know the  mosfet is working in saturation region or not
 
 ![image](https://github.com/user-attachments/assets/f18e2b71-7409-4d03-a787-a058d02a26ad)
@@ -136,11 +137,17 @@ also we can get the exact values of all paramters
 
 2) also we can see that by replacing the Rss in the circuit there is a stable output current
 
+3) In the circuit when the current source was replaced by the mosfet there a a large difference between the required drain current and vout coltage as we increased the width of the replaced mosfet about 3 times of the width of th mosfet pair M1 and M2 by keeping the length of the mosfet constant we can obtained the required drain current of 0.5mA .
 
+4) Also to get the graph of the AC analysis in all the 3 circuits we changed the AC amplitude to -1 ; also phase degree to 180 degrees of V2 voltage source .
 
+    ![image](https://github.com/user-attachments/assets/bcc71b53-2ee9-4346-9a79-1ed3b413deee)
 
+   
+   
+### Inference :-
 
-## Inference :-
+In this experiment we can compare all the a3 circuits and conclude that in differential amplifier with a current source has hoger gain compare to 1st circuit
 
 ### Circuit Comparision :
 
