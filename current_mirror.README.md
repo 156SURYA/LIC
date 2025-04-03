@@ -101,6 +101,17 @@ For L = 180 nm
  
  ![image](https://github.com/user-attachments/assets/786f5669-5235-41e0-bf18-cca80d00d707)
 
+ ##For Circuit 2 with Current Mirror Ratio 1:2 :  
+
+ ### CIRCUIT DIAGRAM :
+ ![image](https://github.com/user-attachments/assets/da26067b-c432-4e35-ae43-306ee9865493)
+
+### DC OUTPUT :
+![image](https://github.com/user-attachments/assets/e3ffb2ec-d6a6-405e-bfe2-b61152282518)
+
+
+ 
+
 
  
 
