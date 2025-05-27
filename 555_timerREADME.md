@@ -344,16 +344,32 @@ The experiment successfully demonstrates:
 ## Step-by-Step Procedure:
 
 1. Connect terminals in the following sequence: L1-L12, L14-L12, L16-L12, L4-L9,
+![WhatsApp Image 2025-05-27 at 06 54 29_10bcefe9](https://github.com/user-attachments/assets/330bd538-b2d0-4d18-a87a-8862592f3c5b)
 
+3. Click the **'Check Connection'** button to verify your wiring.
+4. If any connections are incorrect, click on them to correct. To start over, use the **'Delete all connection'** button.
+5. Set the initial values: **Ra = 3.3 kΩ**, **Rb = 6.8 kΩ**, **C = 0.1 µF**, and **Vcc = 5V**.
 
+![WhatsApp Image 2025-05-27 at 06 54 42_9b8fb3ca](https://github.com/user-attachments/assets/fe5d94d8-81f7-4eef-92aa-3ac0f0a5dca6)
 
+5. Click the **'Calculate'** button to compute the timing parameters.
+6. Observe and record the **output voltage** displayed.
+7. Use the **'Plot'** button to visualize the **output voltage** and **capacitor voltage**.
+![WhatsApp Image 2025-05-27 at 06 55 08_11bb9bac](https://github.com/user-attachments/assets/3ce789a6-53d1-43f9-b5af-b13978f089ba)
 
+8. Click **'Clear'** to reset the plotted data.
+9. Repeat the procedure with a different set of resistor values for further analysis.
+10. Adjust **Ra** within the range **1 kΩ to 10 kΩ**.
 
+![WhatsApp Image 2025-05-27 at 06 55 49_a79bb99f](https://github.com/user-attachments/assets/67dae652-be99-47d3-9af3-9d954cb51051)
 
+![WhatsApp Image 2025-05-27 at 06 56 00_6396b8a5](https://github.com/user-attachments/assets/86499359-8ff5-4d81-98d9-f165271d5309)
 
+![WhatsApp Image 2025-05-27 at 06 56 14_c3eb7d00](https://github.com/user-attachments/assets/55e5cca5-98bc-4909-8d15-27ac12966165)
 
-
-
+11. Set **Rb** between **1 kΩ and 10 kΩ** as required.
+12. Choose a capacitance value (**C**) between **0.1 µF and 10 µF**.
+13. Specify the desired **supply voltage (Vcc)**.
 
 
 
