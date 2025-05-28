@@ -3,13 +3,9 @@
 ### INTRODUCTION :
 
 The 555 timer IC is among the most widely used and adaptable components in analog electronics. First introduced by Signetics in 1972, it has become a staple in various applications such as oscillators, timers, waveform shaping, and pulse generation. The IC operates in three primary modes: astable, monostable, and bistable. This project emphasizes the astable and monostable configurations to create accurate pulse signals and regulate pulse widths, which are essential for uses like pulse width modulation (PWM), timing control, and circuit triggering.
-
 The aim of this project is to develop and simulate two different circuit configurations utilizing the 555 timer IC within the LTspice environment:
-
 The first configuration employs the timer in astable mode to produce a PWM waveform with a pulse width of about 0.5 milliseconds.
-
 The second setup utilizes a monostable timer triggered by the astable output, which first passes through a differentiator and clipper stage.
-
 The monostable configuration is designed to generate a single pulse, with the pulse duration modifiable through external component adjustments.
 
 Simulating these circuits will enhance our understanding of how the 555 timer functions in pulse generation and timing control, while also illustrating how monostable circuits can be triggered via an astable output.
