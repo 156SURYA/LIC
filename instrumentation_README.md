@@ -1,4 +1,4 @@
-# INSTRMENTATION AMPLIFIER
+# INSTRUMENTATION AMPLIFIER
 
 ### AIM :
 To design and analyze instrumentation amplifier using 741 IC op-amp in LT spice
